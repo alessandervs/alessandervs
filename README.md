@@ -28,10 +28,6 @@
 - 🤔 I'm improve my skills at JavaScript, React JS, Node JS
 - 💬 Ask me about SQL, PL/SQL, EMR Philips Tasy, Oracle Cloud, Docker, VSCode, IT Infraestruture
 
-
-💻 I work with Philips Tasy, Oracle, Javascript, React
-, JS, React
-  
   
   
   
