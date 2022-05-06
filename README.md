@@ -22,9 +22,14 @@
   ##
   
   - 🔭 I’m currently working on Hospital Metropolitano Dr. Célio de Castro - BH
-- 🌱 I’m currently learning JS, ReactJs, Node
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about SQL, PL/SQL, Philips Tasy, Oracle Cloud
+- 🌱 I’m currently learning JavaScript, React JS, Node JS
+- 🤔 I’m looking for help with JavaScript, React JS, Node JS
+- 💬 Ask me about SQL, PL/SQL, EMR Philips Tasy, Oracle Cloud, Docker, VSCode, IT Infraestruture
+  
+  
+  
+  
+  
   
   <!--
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -32,24 +37,10 @@
  	<a href="https://www.twitch.tv/alessandervs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
  <a href="https://discord.gg/sanderpant#3932" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- -->
- 
+ --> 
  <!--
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  -->
 </div>
 
 <!--
-**alessandervs/alessandervs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
