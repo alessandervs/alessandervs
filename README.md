@@ -21,10 +21,16 @@
   <a href="https://www.linkedin.com/in/alessandervictor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   ##
   
-  - 🔭 I’m currently working on Hospital Metropolitano Dr. Célio de Castro - BH
+- 📍  I'm from Brasil-MG 
+- 🔭 I’m currently working on Hospital Metropolitano Dr. Célio de Castro
+- 💼 I work as IT Business Analyst  
 - 🌱 I’m currently learning JavaScript, React JS, Node JS
-- 🤔 I’m looking for help with JavaScript, React JS, Node JS
+- 🤔 I'm improve my skills at JavaScript, React JS, Node JS
 - 💬 Ask me about SQL, PL/SQL, EMR Philips Tasy, Oracle Cloud, Docker, VSCode, IT Infraestruture
+
+
+💻 I work with Philips Tasy, Oracle, Javascript, React
+, JS, React
   
   
   
