@@ -1,4 +1,4 @@
-## Olá galera eu sou o Alessander Victor, sou Analista de Negócios de TI em um Hospital e eum entusiasta por tecnologia!
+## Olá galera eu sou o Alessander Victor, sou Analista de Negócios de TI em um Hospital e um entusiasta por tecnologia!
 
 <div align="center">
   <a href="https://github.com/alessandervs">
